@@ -3,7 +3,7 @@
 
 Install dependencies.
 
-`$ yarn add dependencies`
+`$ yarn install`
 
 Run server.
 
